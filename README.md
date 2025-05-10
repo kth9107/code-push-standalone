@@ -15,7 +15,6 @@
 ## 사용 기술
 
 - Node.js (Express)
-- SQLite → Oracle로 마이그레이션 대응
 - Redis (TLS 인증 연동)
 - React Native (배포 테스트용 클라이언트 앱)
 - PM2 (서버 프로세스 관리)
