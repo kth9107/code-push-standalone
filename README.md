@@ -1,4 +1,4 @@
-# Self-Hosted CodePush Server
+# CodePush Server Customizing
 
 ## 개요
 
