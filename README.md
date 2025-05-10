@@ -33,6 +33,7 @@ cp .env.example .env
 # 3. 서버 실행
 npm run build
 code-push-standalone
+```
 
 ## 참조
 https://drive.google.com/file/d/15FHVEbaaC5ZxAym8weB8774Ec6GtFKl8/view?usp=drive_link
